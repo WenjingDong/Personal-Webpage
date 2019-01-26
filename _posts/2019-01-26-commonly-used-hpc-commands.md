@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wening Dong, commonly used hpc commands"
+title: "Commonly used HPC commands"
 date: 2019-01-26
 ---
 <h1> Slurm commands </h1>
