@@ -10,3 +10,7 @@ date: 2019-01-26
   <li>  scancel jobID: cancel a job</li>
 </ul>
 
+<h1> Linux commands</h1>
+<ul>
+  <li>remove files without asking: rm -f filename </li>
+  </ul>
