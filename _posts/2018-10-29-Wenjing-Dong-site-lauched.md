@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wening Dong, Launches Site"
+title: "Launches Site"
 date: 2018-10-29
 ---
 
