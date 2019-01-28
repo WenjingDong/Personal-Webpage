@@ -13,4 +13,6 @@ date: 2019-01-26
 <h1> Linux commands</h1>
 <ul>
   <li>remove files without asking: rm -f filename </li>
+  <li>du -h foldername: list disk space usage of all the files in the folder</li>
+  <li>du -sh foldername: list total disk space usage of the folder</li>
   </ul>
