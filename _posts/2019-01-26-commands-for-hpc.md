@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "commands on HPC"
+title: "Some useful Commands"
 date: 2019-01-26
 ---
 <h1> Slurm commands </h1>
