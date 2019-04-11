@@ -15,7 +15,10 @@ date: 2019-01-26
   <li>remove files without asking: rm -f filename </li>
   <li>du -h foldername: list disk space usage of all the files in the folder</li>
   <li>du -sh foldername: list total disk space usage of the folder</li>
-  <li>ls -l foldername: list file permissions in the folder. For example:<br />
-  -rwxr-xr-x 1 wd583 wd583      852 Mar 10 19:50 f05m6lx16nx512
+  <li>ls -l foldername: list file permissions in the folder. In the following example:<br />
+  -rwxr-xr-x 1 wd583 wd583      852 Mar 10 19:50 f05m6lx16nx512 <br/>
+  The first letter denotes the file type. - means a regular file; d means a folder;l means symbolic link. <br/>
+  The next three letters represent the permissions of the user. The 5th, 6th, and 7th letters repsent the permissions of the group. The last 3 letters represent the permissions of other users. <br/>
+   For this file, the user is wd583 and the group is also wd583. 
   </li>
   </ul>
