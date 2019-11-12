@@ -21,3 +21,11 @@ date: 2019-01-26
   The next three letters represent the permissions of the user. The 5th, 6th, and 7th letters repsent the permissions of the group. The last 3 letters represent the permissions of other users. <br/>
   </li>
   </ul>
+
+<h1> Copy and paste in Vim </h1>
+<ul>
+  <li>Move the cursor to the line you want to begin cutting or copying.</li>
+  <li>Press V to select the entire line, or v to select from where your cursor is. Move the cursor to the end of what you want to copy.</li>
+  <li>Press y to copy, d to cut. </li>
+  <li>Move the cursor to the place where you want to paste you copied stuff. Press P to paste it before your cursor, or p to paste it after the cursor.</li>
+  </ul>
